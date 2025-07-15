@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning MAUI, Blazor
 - 💞️ I’m looking to collaborate on .net projects
 - 📫 How to reach me azezn786@gmail.com or azetra786@gmail.com
-- 😄 Pronouns: MALE
-- ⚡ Fun fact: I am 19 years old born in 2005, I started this at the age of 17.
+
